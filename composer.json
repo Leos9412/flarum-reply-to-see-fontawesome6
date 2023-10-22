@@ -1,5 +1,5 @@
 {
-  "name": "rehiy/flarum-reply-to-see",
+  "name": "rehiy/flarum-reply-to-see-fontawesome6",
   "description": "Add reply to see to your forum.",
   "type": "flarum-extension",
   "license": "MIT",
@@ -14,7 +14,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "Reply to See",
+      "title": "Reply to See2",
       "icon": {
         "image": "resources/logo.svg",
         "backgroundColor": "#e74c3c",
